@@ -5,13 +5,10 @@ import { Footer } from "./footer";
 const story = storiesOf("Components|Layout", module);
 
 const data: Footer = {
-  copyrightOwner: "Geek SG",
-  facebook: "https://geek.sg/",
-  instagram: "https://geek.sg/",
-  twitter: "https://geek.sg/",
-  github: "https://geek.sg/",
-  dribble: "https://geek.sg/",
-  linkedin: "https://geek.sg/",
+  copyrightOwner: "Atif Hasnain",
+  facebook: "https://facebook.com/atif.hasnain/",
+  github: "https://github.com/Atifhasnain/",
+  linkedin: "https://linkedin.com/muhammad-atif-hasnain/",
 };
 
 story.add("Footer", () => <Footer {...data} />);
