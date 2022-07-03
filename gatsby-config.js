@@ -1,6 +1,6 @@
-const siteName = "Sample Blog";
-const siteShortName = "Sample Blog";
-const siteUrl = "https://geek.sg/";
+const siteName = "Technical Blog";
+const siteShortName = "Technical Blog";
+const siteUrl = "https://atifhasnain.xyz/";
 const siteDescription = "Sample blog template";
 const siteKeyword = "";
 const siteLogo = "logo.png";
