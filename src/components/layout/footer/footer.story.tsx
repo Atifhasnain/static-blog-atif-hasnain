@@ -8,7 +8,7 @@ const data: Footer = {
   copyrightOwner: "Atif Hasnain",
   facebook: "https://facebook.com/atif.hasnain/",
   github: "https://github.com/Atifhasnain/",
-  linkedin: "https://linkedin.com/muhammad-atif-hasnain/",
+  linkedin: "https://linkedin.com/in/muhammad-atif-hasnain/",
 };
 
 story.add("Footer", () => <Footer {...data} />);

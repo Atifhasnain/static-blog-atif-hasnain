@@ -22,7 +22,7 @@ const footer = {
   copyrightOwner: "Atif Hasnain",
   facebook: "https://facebook.com/atif.hasnain/",
   github: "https://github.com/Atifhasnain/",
-  linkedin: "https://linkedin.com/muhammad-atif-hasnain/",
+  linkedin: "https://linkedin.com/in/muhammad-atif-hasnain/",
 };
 
 export const Layout: FunctionComponent = ({ children }) => {
